@@ -24,4 +24,5 @@ async def chui(ctx):
     ]
     await ctx.send(random.choice(cau_chui))
 
-bot.run("YOUR_BOT_TOKEN_HERE")
+bot.run("b7f11f1c9336eba9153d84b9aa166555ddd024c4c582a3f665cff62f40e5fc45
+")
